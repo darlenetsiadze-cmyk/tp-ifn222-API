@@ -10,5 +10,29 @@
       "naturel",
       "hydratation"
     ]
+  },
+  {
+    "id": 3,
+    "titre": "Stimuler la pousse avec l huile de Ricin",
+    "contenu": "L huile de ricin, appliquée en massage sur le cuir chevelu, favorise la circulation et la croissance.",
+    "auteur": "Darlene",
+    "date": "2026-03-23",
+    "categorie": "Croissance",
+    "tags": [
+      "pousse",
+      "massage"
+    ]
+  },
+  {
+    "id": 4,
+    "titre": "Les bienfaits du Beurre de Karité",
+    "contenu": "Le beurre de karité brut est idéal pour sceller l hydratation et protéger les pointes sèches.",
+    "auteur": "Darlene",
+    "date": "2026-03-23",
+    "categorie": "Soins",
+    "tags": [
+      "nutrition",
+      "protection"
+    ]
   }
 ]
