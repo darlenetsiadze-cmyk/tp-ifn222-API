@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "titre": "Les secrets de l Aloe Vera",
+    "contenu": "L aloe vera est une plante miracle pour l hydratation des cheveux naturels.",
+    "auteur": "Darlene",
+    "date": "2026-03-23",
+    "categorie": "Soins",
+    "tags": [
+      "naturel",
+      "hydratation"
+    ]
+  }
+]
